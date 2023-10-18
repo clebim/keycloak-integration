@@ -1,0 +1,1 @@
+Create integrations with keycloak without using external libraries focusing on studies
