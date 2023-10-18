@@ -1,0 +1,4 @@
+node_modules
+.docker
+readme-devs.md
+yarn.lock
